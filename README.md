@@ -39,3 +39,7 @@ O código pode precisar de ajustes dependendo das atualizações no layout ou co
 Certifique-se de estar em conformidade com os termos de serviço do site antes de automatizar a extração de dados.
 
 # Não se esqueça de alterar o valor da variável "diretório" 
+
+# Em funcionamento:
+![Doc9_challenge](https://github.com/felipeJJ/Doc9_challenge/assets/43899843/c5e7b876-e152-4116-9dcf-7ff4c58a15cf)
+
