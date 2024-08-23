@@ -1,5 +1,5 @@
 # Automação de Extração de Dados Doc9 challenge V 1.0.2
-Este projeto consiste em uma automação para extração de dados de uma tabela de um site utilizando a biblioteca ferramentas de scraping em Python.
+Este projeto consiste em uma automação para extração de dados de uma tabela de um site utilizando bibliotecas ferramentas de scraping em Python.
 
 ## Sobre este Projeto
 Tem como objetivo: Automatizar o processo de extração de dados de uma tabela em um site, realizar o download de imagens e extrair informações desses documentos para posterior análise.
